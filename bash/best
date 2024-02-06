@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "Tekouin is so cool!"
 =======
 echo "Hi Tekouin"
 >>>>>>> Update_branch
+=======
+echo "Hi Tekouin"
+>>>>>>> 997917e03b46ce14e10e93bbef985fc27ddd5401
